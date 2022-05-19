@@ -2,7 +2,7 @@ import { ethers } from './ethers-5.2.esm.min.js'
 
 const provider = new ethers.providers.Web3Provider(window.ethereum, 'any')
 
-const contractAddress = "0x37874Bc2dBbBC675f3c8AcF53a64FA604e2AdFc6"
+const contractAddress = "0xB35885ce49Aea8492aB5d2d8934058D4D5db6449"
 
 const contractABI = [
   {
